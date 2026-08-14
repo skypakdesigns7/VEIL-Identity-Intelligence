@@ -54,12 +54,12 @@ The visual system combines:
 
 ## Color
 ### Color	Hex
-Black	#050505
-Graphite	#111315
-Cold Gray	#6E7278
-Steel Silver	#B8BDC4
-Bone White	#F3F1EC
-Signal Red	#D64949
+- **Black	#050505**
+- **Graphite	#111315**
+- **Cold Gray	#6E7278**
+- **Steel Silver	#B8BDC4**
+- **Bone White	#F3F1EC**
+- **Signal Red	#D64949**
 
 Signal Red is reserved for alerts, threat states, and critical system interactions.
 
