@@ -17,21 +17,21 @@ The result is a system built around precision, restraint, and technological auth
 
 ## Brand Strategy
 ### Positioning
-
 Identity intelligence infrastructure for the post-trust internet.
 
 VEIL operates at the intersection of cybersecurity, artificial intelligence, biometric verification, and threat intelligence.
 
 ### Brand Attributes
-- **Precises**
-- **Intelligents**
-- **Authoritatives**
-- **Secures**
-- **Minimals**
-- **Technicals**
-- **Futuristics**
-- **Restraineds**
-- **Core Ideas**
+- Precise
+- Intelligent
+- Authoritative
+- Secure
+- Minimal
+- Technical
+- Futuristic
+- Restrained
+
+<img width="4416" height="4594" alt="VEIL_VEIL Cover Image" src="https://github.com/user-attachments/assets/065832a6-6d9b-4f7c-b3c5-76117c0a968a" />
 
 Trust must become verifiable again.
 
@@ -43,63 +43,65 @@ Instead, the system draws from intelligence agencies, biometric systems, surveil
 
 The visual system combines:
 
-- **Dark editorial compositionss**
-- **Precision typographys**
-- **Biometric-inspired geometrys**
-- **Surveillance interfacess**
-- **Data visualizations**
-- **High-contrast monochrome imagerys**
-- **Controlled signal colorss**
-- **Cinematic motions**
+- Dark editorial compositions
+- Precision typography
+- Biometric-inspired geometry
+- Surveillance interfaces
+- Data visualization
+- High-contrast monochrome imagery
+- Controlled signal colors
+- Cinematic motions
 
 ## Color
+<img width="4000" height="2250" alt="VEIL-01" src="https://github.com/user-attachments/assets/af51724b-d050-40a7-9e9c-62e8da7f4a80" />
+
 ### Color	Hex
-- **Black	#050505**
-- **Graphite	#111315**
-- **Cold Gray	#6E7278**
-- **Steel Silver	#B8BDC4**
-- **Bone White	#F3F1EC**
-- **Signal Red	#D64949**
+- Black	#050505
+- Graphite	#111315
+- Cold Gray	#6E7278
+- Steel Silver	#B8BDC4
+- Bone White	#F3F1EC
+- Signal Red	#D64949
 
 Signal Red is reserved for alerts, threat states, and critical system interactions.
 
 ## Digital Experience
-
 The website was designed as the primary expression of the VEIL brand.
 
+<img width="1440" height="2836" alt="Landing Page" src="https://github.com/user-attachments/assets/411f2b9a-477e-482a-b210-62e17d558e6e" />
+<img width="4000" height="7873" alt="VEIL_LP_2" src="https://github.com/user-attachments/assets/87f411dd-0571-4e49-ad9e-88afbf92323f" />
+
 ### Key Pages
-- **Homepage**
-- **Threat Intelligence**
-- **Enterprise Solutions**
-- **Security**
-- **Research**
-- **Homepage Experience**
+- Homepage
+- Threat Intelligence
+- Enterprise Solutions
+- Security
+- Research
+- Homepage Experience
 
 The landing page introduces VEIL through a cinematic, intelligence-oriented experience.
 
 ### Key sections include:
-
-- **Hero / Brand Introduction**
-- **The Synthetic Identity Problem**
-- **Platform Overview**
-- **Identity Verification**
-- **Deepfake Detection**
-- **Threat Monitoring**
-- **Behavioral Intelligence**
-- **Live Threat Environment**
-- **Enterprise Applications**
-- **Brand Manifesto**
-- **Access / Contact**
-- **Product Concepts**
+- Hero / Brand Introduction
+- The Synthetic Identity Problem
+- Platform Overview
+- Identity Verification
+- Deepfake Detection
+- Threat Monitoring
+- Behavioral Intelligence
+- Live Threat Environment
+- Enterprise Applications
+- Brand Manifesto
+- Access / Contact
+- Product Concepts
 
 ### The identity extends into a speculative VEIL product ecosystem including:
-
-- **Identity verification**
-- **Deepfake detection**
-- **Behavioral analysis**
-- **Threat monitoring**
-- **Biometric authentication**
-- **Synthetic media analysis**
+- Identity verification
+- Deepfake detection
+- Behavioral analysis
+- Threat monitoring
+- Biometric authentication
+- Synthetic media analysis
 
 The interface language uses dark surfaces, precise typography, restrained data visualization, and minimal system states to reinforce the intelligence-grade positioning.
 
@@ -109,15 +111,12 @@ The interface language uses dark surfaces, precise typography, restrained data v
 Reality Has a Signature.
 
 ### Supporting Statement
-
 VEIL detects AI impersonation, synthetic identities, deepfakes, and biometric fraud before trust is compromised.
 
 ### Brand Statement
-
 The Internet Can Now Imitate Anyone.
 
 ### Manifesto
-
 The next generation of cyber threats will not target systems first.
 They will target perception.
 
@@ -128,38 +127,39 @@ A believable message.
 VEIL exists to authenticate reality in environments where synthetic intelligence is indistinguishable from human presence.
 
 ## Deliverables
-- **Brand**
-- **Logo system**
-- **Wordmark**
-- **Symbol**
-- **Typography system**
-- **Color system**
-- **Iconography**
-- **Brand guidelines**
-- **Website**
-- **Posters**
-- **Digital advertising**
-- **Social media system**
-- **Creative Direction**
+- Brand
+- Logo system
+- Wordmark
+- Symbol
+- Typography system
+- Color system
+- Iconography
+- Brand guidelines
+- Website
+- Posters
+- Digital advertising
+- Social media system
+- Creative Direction
+- 
+<img width="4000" height="2250" alt="VEIL-05" src="https://github.com/user-attachments/assets/ed9b8f36-a726-452a-a52a-f88afcf66271" />
+<img width="4000" height="2250" alt="VEIL-02" src="https://github.com/user-attachments/assets/f563b45d-0cf6-4747-963d-ebbbfd2cb7ec" />
 
 ## The project draws visual inspiration from:
 
-- **Intelligence and defense systems**
-- **Biometric technology**
-- **Surveillance interfaces**
-- **Luxury technology**
-- **Editorial design**
-- **Contemporary cybersecurity**
-- **Futuristic industrial design**
+- Intelligence and defense systems
+- Biometric technology
+- Surveillance interfaces
+- Luxury technology
+- Editorial design
+- Contemporary cybersecurity
+- Futuristic industrial design
 
 The goal was to create a visual language that feels credible today while suggesting the technological environment of tomorrow.
 
 ### Project Type
-
 Brand Identity · Art Direction · Web Design · UI Design · Concept Development
 
 ### Status
-
 Concept / Speculative Project
 
 Created as a portfolio exploration into branding and digital art direction for emerging technology companies.
