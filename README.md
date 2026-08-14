@@ -23,15 +23,15 @@ Identity intelligence infrastructure for the post-trust internet.
 VEIL operates at the intersection of cybersecurity, artificial intelligence, biometric verification, and threat intelligence.
 
 ### Brand Attributes
-- **Precises** —
-- **Intelligents** —
-- **Authoritatives** —
-- **Secures** —
-- **Minimals** —
-- **Technicals** —
-- **Futuristics** —
-- **Restraineds** —
-- **Core Ideas** —
+- **Precises**
+- **Intelligents**
+- **Authoritatives**
+- **Secures**
+- **Minimals**
+- **Technicals**
+- **Futuristics**
+- **Restraineds**
+- **Core Ideas**
 
 Trust must become verifiable again.
 
@@ -43,14 +43,14 @@ Instead, the system draws from intelligence agencies, biometric systems, surveil
 
 The visual system combines:
 
-- **Dark editorial compositionss** —
-- **Precision typographys** —
-- **Biometric-inspired geometrys** —
-- **Surveillance interfacess** —
-- **Data visualizations** —
-- **High-contrast monochrome imagerys** —
-- **Controlled signal colorss** —
-- **Cinematic motions** —
+- **Dark editorial compositionss**
+- **Precision typographys**
+- **Biometric-inspired geometrys**
+- **Surveillance interfacess**
+- **Data visualizations**
+- **High-contrast monochrome imagerys**
+- **Controlled signal colorss**
+- **Cinematic motions**
 
 ## Color
 ### Color	Hex
@@ -68,39 +68,38 @@ Signal Red is reserved for alerts, threat states, and critical system interactio
 The website was designed as the primary expression of the VEIL brand.
 
 ### Key Pages
-Homepage
-Threat Intelligence
-Enterprise Solutions
-Security
-Research
-Careers
-Homepage Experience
+- **Homepage**
+- **Threat Intelligence**
+- **Enterprise Solutions**
+- **Security**
+- **Research**
+- **Homepage Experience**
 
 The landing page introduces VEIL through a cinematic, intelligence-oriented experience.
 
 ### Key sections include:
 
-Hero / Brand Introduction
-The Synthetic Identity Problem
-Platform Overview
-Identity Verification
-Deepfake Detection
-Threat Monitoring
-Behavioral Intelligence
-Live Threat Environment
-Enterprise Applications
-Brand Manifesto
-Access / Contact
-Product Concepts
+- **Hero / Brand Introduction**
+- **The Synthetic Identity Problem**
+- **Platform Overview**
+- **Identity Verification**
+- **Deepfake Detection**
+- **Threat Monitoring**
+- **Behavioral Intelligence**
+- **Live Threat Environment**
+- **Enterprise Applications**
+- **Brand Manifesto**
+- **Access / Contact**
+- **Product Concepts**
 
 ### The identity extends into a speculative VEIL product ecosystem including:
 
-Identity verification
-Deepfake detection
-Behavioral analysis
-Threat monitoring
-Biometric authentication
-Synthetic media analysis
+- **Identity verification**
+- **Deepfake detection**
+- **Behavioral analysis**
+- **Threat monitoring**
+- **Biometric authentication**
+- **Synthetic media analysis**
 
 The interface language uses dark surfaces, precise typography, restrained data visualization, and minimal system states to reinforce the intelligence-grade positioning.
 
@@ -129,48 +128,39 @@ A believable message.
 VEIL exists to authenticate reality in environments where synthetic intelligence is indistinguishable from human presence.
 
 ## Deliverables
-Brand
-Logo system
-Wordmark
-Symbol
-Typography system
-Color system
-Iconography
-Brand guidelines
-Digital
-Marketing website
-Responsive web layouts
-Product interface
-Threat monitoring dashboard
-Mobile authentication concepts
-Campaign
-Launch campaign
-Posters
-Digital advertising
-Conference graphics
-Social media system
-Presentation system
-Creative Direction
+- **Brand**
+- **Logo system**
+- **Wordmark**
+- **Symbol**
+- **Typography system**
+- **Color system**
+- **Iconography**
+- **Brand guidelines**
+- **Website**
+- **Posters**
+- **Digital advertising**
+- **Social media system**
+- **Creative Direction**
 
 ## The project draws visual inspiration from:
 
-Intelligence and defense systems
-Biometric technology
-Surveillance interfaces
-Luxury technology
-Editorial design
-Contemporary cybersecurity
-Futuristic industrial design
+- **Intelligence and defense systems**
+- **Biometric technology**
+- **Surveillance interfaces**
+- **Luxury technology**
+- **Editorial design**
+- **Contemporary cybersecurity**
+- **Futuristic industrial design**
 
 The goal was to create a visual language that feels credible today while suggesting the technological environment of tomorrow.
 
-## Project Type
+### Project Type
 
-### Brand Identity · Art Direction · Web Design · UI Design · Concept Development
+Brand Identity · Art Direction · Web Design · UI Design · Concept Development
 
-## Status
+### Status
 
-### Concept / Speculative Project
+Concept / Speculative Project
 
 Created as a portfolio exploration into branding and digital art direction for emerging technology companies.
 
